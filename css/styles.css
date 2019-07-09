@@ -1,9 +1,10 @@
 body{
     padding:100px;
     background-color:white;
-    color:red;
+    color:black;
 }
 
 h1{
-    background-color:blue;
+    background-color:rgba(0, 255, 234, 0.979);
+    text-align:center;
 }
